@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [程序员的生活](README.md)
 
